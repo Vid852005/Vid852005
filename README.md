@@ -55,7 +55,7 @@
 
 - Strengthen ML/DL expertise with scalable applications  
 - Contribute to open-source projects in AI & blockchain  
-- Share knowledge via blogs, podcasts, and talks  
+- Research in Computer Vision and psychology 
 
 ---
 
