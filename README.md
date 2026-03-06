@@ -15,11 +15,11 @@
 
 ## About Me
 
- I’m a Computer Science undergrad specializing in **Artificial Intelligence & Machine Learning**, with a deep interest in **AI for social good, Blockchain applications, and intelligent automation**.  
+ I’m a Computer Science undergrad specializing in **Artificial Intelligence & Machine Learning**, with a deep interest in **AI for social good, Reproducible research , and Human ai interaction**.  
 
 - 🎓 B.Tech in CSE (AI & ML) at Graphic Era Hill University  
 -  Building projects in **Face Recognition, Mood Detection, and Healthcare AI**  
-- Exploring **Blockchain with Solidity** for secure, decentralized apps  
+- Exploring **Paper to code projects** for learning research papers and know how to produce reproducible research  
 -  Learning **Docker** and deployment workflows for scalable ML systems  
 - Currently exploring **Javascript & Web-centered projects** to expand my development stack  
 
